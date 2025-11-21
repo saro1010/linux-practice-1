@@ -1,0 +1,4 @@
+#users with /bin/bash
+root
+saro
+sahar

@@ -1,0 +1,7 @@
+#/etc/group first 2 line and last 3 line
+root:x:0:
+daemon:x:1:
+---------
+saro:x:1000:
+plocate:x:124:
+sahar:x:1001:

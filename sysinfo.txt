@@ -1,0 +1,4 @@
+#system info and kernel name and kernel version and architecture
+Linux
+6.14.0-27-generic
+x86_64

@@ -1,0 +1,11 @@
+#top 10 big files in /var/log
+269M	/var/log
+259M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b
+259M	/var/log/journal
+8.1M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/system@000640c84165d8b3-f48eee44bf5c874c.journal~
+8.1M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/system@000640bd3dd0f842-d2fc09dd751102e2.journal~
+8.0M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/user-1000.journal
+8.0M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/user-1000@000640c841ac4564-fbea4f7838e2b3a2.journal~
+8.0M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/user-1000@000640bd3e0805ed-5b4fb5c6b378ea56.journal~
+8.0M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/user-1000@000640bd33400ff4-648f52b2adb42668.journal~
+8.0M	/var/log/journal/97eed7dc2dc342febbeb20ee2951e67b/user-1000@000640bd279bff0f-b730612a6dc179c4.journal~
